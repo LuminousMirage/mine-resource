@@ -1,0 +1,1 @@
+This file is reserve for naming resources
