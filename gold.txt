@@ -1,1 +1,3 @@
 gold x 1
+silver x 3
+copper x 6
