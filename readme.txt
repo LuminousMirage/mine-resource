@@ -1,3 +1,1 @@
-This file is reserve for naming resources
-
-Adding carrots
+This file is reserve for all resources
