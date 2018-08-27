@@ -1,1 +1,1 @@
-This file is reserve for all resources
+This file is list for all resources
