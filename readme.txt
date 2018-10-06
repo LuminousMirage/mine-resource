@@ -1,1 +1,1 @@
-This file is list for all resources
+This file is list for gold resources
