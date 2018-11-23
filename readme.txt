@@ -1,1 +1,1 @@
-This file is list for resources only
+This file is list for resources exclusively
