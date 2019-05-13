@@ -1,1 +1,1 @@
-This file is reserved for resources only
+This file is reserved for resources
